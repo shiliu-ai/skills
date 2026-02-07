@@ -1,4 +1,6 @@
 # Shiliu AI Skills Collection
+<img width="5498" height="1892" alt="logo" src="https://github.com/user-attachments/assets/2b685d06-6d93-4452-be6a-47940aced98c" />
+
 
 > A growing collection of [Claude Code](https://claude.ai/code) skills — open source, ready to use.
 
